@@ -1,4 +1,4 @@
-### **Question_1**
+## **Question_1**
 
 **Step 1**:Creates an "ecommerce" database and defines four tables: gold_member_users, users, sales, and product.<br/>
 **Step 2**:Inserts data into the tables with appropriate datatypes.<br />
@@ -20,7 +20,7 @@
 **Step 18**:Inserts a duplicate record into the product table.<br />
 **Step 19**:Identifies duplicates in the product table.<br />
 
-### **Question_2**
+## **Question_2**
 
 **Step 1** :The product_details table is created with two columns: sell_date to store the date of 
 sale and product to store the name of the product sold.<br />
@@ -28,7 +28,7 @@ sale and product to store the name of the product sold.<br />
 **Step 3** :The SELECT query retrieves sales data, calculates the number of distinct products sold on each sale date, and aggregates the products sold into a comma-separated list.<br />
 **Step 4** :Results are grouped by sale date and sorted by the number of distinct products sold.<br />
 
-### **Question_3**
+## **Question_3**
 
 **Step 1** :The dept_tabl table is created with three columns: id_deptname to store department IDs, 
 emp_name to store employee names, and salary to store employee salaries.<br />
@@ -37,7 +37,7 @@ emp_name to store employee names, and salary to store employee salaries.<br />
 manipulation functions, sums up the salaries of all employees within each department, and groups the results by department name.
 
 
-### **Question_4**
+## **Question_4**
 
 **Step 1** :The script creates a table email_signup to store user sign-up data, including email addresses and signup dates.<br />
 **Step 2** :Sample data is inserted into this table.<br />
@@ -46,7 +46,7 @@ manipulation functions, sums up the salaries of all employees within each depart
 **Step 5** :It finds the latest and earliest signup dates for Gmail accounts.<br />
 **Step 6** :It calculates the difference in days between the earliest and latest signup dates for Gmail accounts.<br />
 
-### **Question_5**
+## **Question_5**
 
 **Step 1** :The script provides SQL queries to analyze sales data from the sales_data table.<br />
 **Step 2** :The first query retrieves the latest sales for each product.<br />
@@ -54,7 +54,7 @@ manipulation functions, sums up the salaries of all employees within each depart
 **Step 4** :The third query identifies the first and last quantities sold for each product.<br />
 **Step 5** :These queries offer valuable insights into sales trends, changes, and quantities sold over time.<br />
 
-### **Question_6**
+## **Question_6**
 
 #### **Entities and Attributes**
 
@@ -77,3 +77,4 @@ manipulation functions, sums up the salaries of all employees within each depart
 * One-to-Many relationship between Instructor and Course <br/>
 * One-to-Many relationship between Student and Major <br/>
 * One-to-Many relationship between Department and Course <br/>
+
